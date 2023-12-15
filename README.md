@@ -20,4 +20,6 @@ Here are some ideas to get you started:
   </span>
 
   <h2>Profile 42:</h2>
-  <img align="center" src="https://badge.mediaplus.ma/binary/mzoheir" alt="mzoheir's 42 stats" />
+  <div align="center">
+  <img  src="https://badge.mediaplus.ma/binary/mzoheir" alt="mzoheir's 42 stats" />
+</div>
