@@ -18,3 +18,6 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blinkxy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blinkxy&layout=compact&langs_count=7&theme=dracula"/>
   </span>
+
+  <h2>Profile 42:</h2>
+  <img src="https://badge.mediaplus.ma/binary/mzoheir" alt="mzoheir's 42 stats" />
